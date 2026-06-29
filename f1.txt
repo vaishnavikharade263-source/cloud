@@ -1,0 +1,7 @@
+this is f1 file
+Hellotouch f1.txt
+this is f1 file
+This is F1 file
+this is one file
+this is f1 file
+Hellootouch f1.txt!
